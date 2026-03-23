@@ -1,5 +1,7 @@
 # SB ELRS V0.2
 A Small Batch ExpressLRS PCB module for an FPV drone.
+This 2.4 GHz ExpressLRS PCB module has a single transceiver with upgraded C3
+processor and built-in antennas on a minimal PCB footprint.
 
 ## Board
 | Front | Back |
