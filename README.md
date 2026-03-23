@@ -1,7 +1,8 @@
 # SB ELRS V0.2
-A Small Batch ExpressLRS PCB module for an FPV drone.
-This 2.4 GHz ExpressLRS PCB module has a single transceiver with upgraded C3
-processor and built-in antennas on a minimal PCB footprint.
+The SB ELRS V0.2 is a 2.4 GHz ExpressLRS receiver module for FPV drones.
+This module has a single Semtech SX1280 receiver, Espressif ESP32-C3
+processor, and built-in 2.4GHz ceramic antenna.
+The serial interface is compatible with Betaflight FPV flight controllers.
 
 ## Board
 | Front | Back |
