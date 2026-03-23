@@ -2,7 +2,7 @@
 The SB ELRS V0.2 is a 2.4 GHz ExpressLRS receiver module for FPV drones.
 This module has a single Semtech SX1280 receiver, Espressif ESP32-C3
 processor, and built-in 2.4GHz ceramic antenna.
-The serial interface is compatible with Betaflight FPV flight controllers.
+The CRSF serial interface is compatible with Betaflight FPV flight controllers.
 
 ## Board
 | Front | Back |
