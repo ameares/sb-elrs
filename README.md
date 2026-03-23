@@ -12,7 +12,7 @@ The CRSF serial interface is compatible with Betaflight FPV flight controllers.
 ## Schematic
 📄 [Schematic PDF](docs/schematic.pdf)
 
-## Components
+## Key Components
 - **ESP32-C3-MINI-1-N4** (U2) — Espressif ESP32-C3 microcontroller module with 4MB flash
 - **SX1280IMLTRT** (U1) — Semtech SX1280 2.4GHz LoRa/FLRC radio transceiver IC
 - **AP61100Z6-7** (U3) — Diodes Inc. 1A synchronous buck converter for power regulation
