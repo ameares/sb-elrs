@@ -12,8 +12,9 @@ The CRSF serial interface is compatible with Betaflight FPV flight controllers.
 ## Photos
 
 **V0.1**
-
-![Partially Assembled V0.1](docs/images/partial_v0_1_c.jpg)
+|       |      |
+|-------|------|
+| ![Partially Assembled V0.1](docs/images/partial_v0_1_c.jpg) | ![Partially Assembled V0.1](docs/images/finished_v0_1.jpg) |
 
 ## Schematic
 📄 [Schematic PDF](docs/schematic.pdf)
